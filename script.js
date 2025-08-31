@@ -1,10 +1,10 @@
 (function(){
   const WA_PHONE = "918320693531"; // user's whatsapp number with country code
   const menu = [
-    { id: 'aloo', name:'Aloo Paratha', price:50, img:'https://images.unsplash.com/photo-1604908177125-9aa6f37d4b16?q=80&w=800&auto=format&fit=crop' },
-    { id: 'paneer', name:'Paneer Paratha', price:70, img:'https://images.unsplash.com/photo-1617191511521-0c2b7fa2b2d5?q=80&w=800&auto=format&fit=crop' },
-    { id: 'cheese', name:'Cheese Paratha', price:80, img:'https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=800&auto=format&fit=crop' },
-    { id: 'mixveg', name:'Mix Veg Paratha', price:60, img:'https://images.unsplash.com/photo-1625944535338-c36b25d13272?q=80&w=800&auto=format&fit=crop' }
+    { id: 'aloo', name:'Aloo Paratha', price:110, img:'https://images.unsplash.com/photo-1604908177125-9aa6f37d4b16?q=80&w=800&auto=format&fit=crop' },
+    { id: 'paneer', name:'Paneer Paratha', price:149, img:'https://images.unsplash.com/photo-1617191511521-0c2b7fa2b2d5?q=80&w=800&auto=format&fit=crop' },
+    { id: 'cheese', name:'Cheese Paratha', price:149, img:'https://images.unsplash.com/photo-1512058564366-18510be2db19?q=80&w=800&auto=format&fit=crop' },
+    { id: 'mixveg', name:'Mix Veg Paratha', price:160, img:'https://images.unsplash.com/photo-1625944535338-c36b25d13272?q=80&w=800&auto=format&fit=crop' }
   ];
 
   const coupons = [
